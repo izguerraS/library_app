@@ -1,0 +1,8 @@
+{
+  id: @book.id,
+  title: @book.title,
+  author: @book.author,
+  year: @book.year,
+  
+
+}
